@@ -1,9 +1,13 @@
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Akaya Telivigala', cursive;
   padding: 20px 60px;
 }
 
 a {
   text-decoration: none;
   color: black;
+}
+
+* {
+  box-sizing: border-box;
 }
